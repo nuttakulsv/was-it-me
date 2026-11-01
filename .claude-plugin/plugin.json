@@ -1,0 +1,9 @@
+{
+  "name": "was-it-me",
+  "version": "0.1.0",
+  "description": "Did my change break this test, was it already broken, or is it flaky? Reruns it with and without your changes in a throwaway git worktree and tells you.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/was-it-me",
+  "license": "MIT",
+  "keywords": ["testing", "flaky-tests", "git", "worktree", "debugging", "ci"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "was-it-me",
+  "owner": { "name": "nuttakulsv" },
+  "description": "Skill and script that settle \"pre-existing or mine?\" for a failing test",
+  "plugins": [
+    {
+      "name": "was-it-me",
+      "source": "./",
+      "description": "Did my change break this test, was it already broken, or is it flaky? Reruns it with and without your changes in a throwaway git worktree and tells you."
+    }
+  ]
+}
